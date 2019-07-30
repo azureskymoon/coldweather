@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<liztepal>
+    <dbname value = "cold_weather" />
+
+    <version value = "1" />
+
+    <list>
+        <mapping class = "com.coldweather.android.db.Province"  />
+        <mapping class = "com.coldweather.android.db.City"  />
+        <mapping class = "com.coldweather.android.db.County"  />
+    </list>
+    
+</liztepal>
